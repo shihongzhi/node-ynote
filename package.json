@@ -1,0 +1,19 @@
+{
+    "author": {
+        "name": "shihongzhi",
+        "url": "http://shihongzhi.com",
+        "email": "shi65881583@gmail.com"
+    },
+    "name": "ynote",
+    "main": "ynote.js",
+    "description": "nodejs sdk for youdao-note's openapi",
+    "version": "0.0.4",
+    "repository": {"url": "https://github.com/shihongzhi/node-ynote", "type": "git"},
+    "dependencies": {
+        "express": "3.x",
+        "oauth": "*",
+        "request": "*",
+        "qs": "*",
+        "mime": "*"
+    }
+}
